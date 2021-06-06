@@ -1,7 +1,7 @@
 Template API
 ============
 
-This document describes Stencils Swift API, and not the Swift template language.
+This document describes Stencil's Swift API, and not the Stencil template language.
 
 .. contents:: :depth: 2
 
